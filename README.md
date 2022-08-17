@@ -8,6 +8,6 @@
 
 ![Калькулятор 3 0](https://user-images.githubusercontent.com/93496790/185208202-ca29f81c-aad4-4be6-a76f-ad6b9eb0c083.jpg)
 
-Также реализована генерация истории вычисление в txt-файле:
+Также реализована генерация истории вычислений в txt-файле:
 
 ![История вычислений](https://user-images.githubusercontent.com/93496790/185208237-d12b56cf-7b14-4989-907a-359ef3b96f2a.jpg)
